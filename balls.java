@@ -3,7 +3,8 @@ import java.util.*;
 import java.applet.*;  
 import java.awt.*;  
 import java.awt.event.*;  
-//Package Declarations  
+
+//  2nd commit     //Package Declarations  
 public class balls extends Applet implements Runnable  
 {  
 Random r = new Random(); // Random number generation for Different Colours  
